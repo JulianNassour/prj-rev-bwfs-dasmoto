@@ -1,0 +1,42 @@
+.header {
+  /* background-image: url(resources/pattern.jpeg); */
+  background-size: cover;
+  color: khaki;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: horizontal;
+}
+
+.title {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.back-blue {
+  background-color: skyblue;
+}
+
+.back-green {
+  background-color: mediumspringgreen;
+}
+
+.back-red {
+  background-color: lightcoral;
+}
+
+.highlight {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+h1, h2 {
+  font-size: inherit;
+}
+
+html, body {
+  font-family: Helvetica;
+}
